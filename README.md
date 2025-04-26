@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning TypeScript, Go
 - 📫 How to reach me: @andrinoff on every social, OR realandrinoff@gmail.com
 - 😄 Pronouns: he/him
+- Currently working on projects pinned
 
 
 <!---
