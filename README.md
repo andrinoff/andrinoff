@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @andrinoff
-- 👀 I’m a guitarist and a starting IT developer
-- 🌱 I’m currently learning TypeScript, Go
-- 📫 How to reach me: @andrinoff on every social, OR realandrinoff@gmail.com
-- 😄 Pronouns: he/him
-- Currently working on projects pinned
+Based in Tbilisi
+currently available for work
 
 
-<!---
-andrinoff/andrinoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![andrinoff](https://github-readme-stats.vercel.app/api?username=andrinoff&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![andrinoff](https://github-readme-stats.vercel.app/api/top-langs?username=andrinoff&show_icons=true&theme=tokyonight&layout=compact)
