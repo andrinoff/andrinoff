@@ -1,7 +1,6 @@
-Based in Tbilisi <br>
-Currently available for work. 
 
 
-![andrinoff](https://github-readme-stats.vercel.app/api?username=andrinoff&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![andrinoff](https://github-readme-stats.vercel.app/api/top-langs?username=andrinoff&show_icons=true&theme=tokyonight&layout=compact)
+![andrinoff](https://raw.githubusercontent.com/andrinoff/stats/884d270f92df35e1012b849b050b799e455477e9/generated/languages.svg)
+
+![andrinoff](https://raw.githubusercontent.com/andrinoff/stats/884d270f92df35e1012b849b050b799e455477e9/generated/overview.svg)
