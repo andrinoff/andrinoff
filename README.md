@@ -1,5 +1,5 @@
-Based in Tbilisi
-currently available for work
+Based in Tbilisi <br>
+Currently available for work. 
 
 
 ![andrinoff](https://github-readme-stats.vercel.app/api?username=andrinoff&show_icons=true&theme=tokyonight&hide=["issues"])
