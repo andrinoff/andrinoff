@@ -24,6 +24,12 @@ I am seeking to apply my dedication, teamwork skills and contribute to goal of y
 
 ---
 
+**Website for pirate movie casting** | Remote
+*4 months*
+
+* Helped making the website one of the most usable pirate movie players
+* Increased revenue by 20%
+
 ## Skills
 
 
