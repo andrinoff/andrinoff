@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **realandrinoff@gmail.com**
 
-- 📄 Know about my experiences [in my CV](https://https://github.com/andrinoff/andrinoff/blob/main/%25D0%25A1V.md)
+- 📄 Know about my experiences [in my CV](https://github.com/andrinoff/andrinoff/blob/main/СV.md)
 
 - ⚡ Fun fact **I communicate**
 
