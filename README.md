@@ -46,11 +46,9 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93
-s-projects.vercel.app/api/top-langs?username=andrinoff&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="andrinoff" width=460 /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=andrinoff&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="andrinoff" width=460 /></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93
-s-projects.vercel.app/api?username=andrinoff&show_icons=true&locale=en&title_color=00FF2B&text_color=00FF2B&icon_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" alt="andrinoff" width=460 /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=andrinoff&show_icons=true&locale=en&title_color=00FF2B&text_color=00FF2B&icon_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" alt="andrinoff" width=460 /></a>
   <br>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=andrinoff&&border=00FF2B&stroke=00FF2B&ring=00FF2B&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&theme=chartreuse-dark" alt="andrinoff" width=460 /></a>
 </div>
