@@ -12,9 +12,9 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Could+not+commit+to+life+so+commit+here." alt="Typing SVG" />
 
-
+<summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Recent+GitHub+Activity:" alt="Typing SVG" /></summary>
   <details>
-    <summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Recent+GitHub+Activity:" alt="Typing SVG" /></summary>
+    
     
   
 | Recent Activity |
