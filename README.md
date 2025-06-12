@@ -21,11 +21,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/work-progress/work-progress/pull/32) in [work-progress/work-progress](https://github.com/work-progress/work-progress)
-2. ❗ Opened issue [#23](https://github.com/andrinoff/work-progress-backend/issues/23) in [andrinoff/work-progress-backend](https://github.com/andrinoff/work-progress-backend)
-3. 🎉 Merged PR [#3](https://github.com/andrinoff/andrinoff.github.io/pull/3) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
-4. 🎉 Merged PR [#2](https://github.com/andrinoff/andrinoff.github.io/pull/2) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
-5. 🎉 Merged PR [#4](https://github.com/andrinoff/andrinoff.github.io/pull/4) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
+1. 🎉 Merged PR [#1](https://github.com/tbilisihc/assets/pull/1) in [tbilisihc/assets](https://github.com/tbilisihc/assets)
+2. 💪 Opened PR [#1](https://github.com/tbilisihc/assets/pull/1) in [tbilisihc/assets](https://github.com/tbilisihc/assets)
+3. ❌ Closed PR [#32](https://github.com/work-progress/work-progress/pull/32) in [work-progress/work-progress](https://github.com/work-progress/work-progress)
+4. ❗ Opened issue [#23](https://github.com/andrinoff/work-progress-backend/issues/23) in [andrinoff/work-progress-backend](https://github.com/andrinoff/work-progress-backend)
+5. 🎉 Merged PR [#3](https://github.com/andrinoff/andrinoff.github.io/pull/3) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
 <!--END_SECTION:activity-->
 
 
