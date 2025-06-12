@@ -9,12 +9,12 @@
 <hr>
 
 <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Could+not+commit+to+life+so+commit+here." alt="Typing SVG" /></a>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Could+not+commit+to+life+so+commit+here." alt="Typing SVG" />
 
 
   <details>
-    <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Recent+GitHub+Activity:" alt="Typing SVG" /></a></summary>
+    <summary><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Recent+GitHub+Activity:" alt="Typing SVG" /></summary>
     
   
 | Recent Activity |
@@ -45,9 +45,9 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=andrinoff&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="andrinoff" width=460 /></a>
+  <img src="https://raw.githubusercontent.com/andrinoff/stats/master/generated/languages.svg#gh-dark-mode-only" alt="andrinoff" width=460 />
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api?username=andrinoff&show_icons=true&locale=en&title_color=00FF2B&text_color=00FF2B&icon_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark&show=discussions_answered,prs_merged,reviews&include_all_commits=true" alt="andrinoff" width=460 /></a>
+  <img src="https://raw.githubusercontent.com/andrinoff/stats/master/generated/overview.svg#gh-dark-mode-only" alt="andrinoff" width=460 />
   <br>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=andrinoff&&border=00FF2B&stroke=00FF2B&ring=00FF2B&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&theme=chartreuse-dark" alt="andrinoff" width=460 /></a>
 </div>
@@ -56,19 +56,3 @@
 
 
 
-<!--END_SECTION:followers-->
-
-<!--
-**andrinoff/andrinoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
