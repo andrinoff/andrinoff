@@ -4,8 +4,7 @@
   
 
   <hr>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-davevad93s-projects.vercel.app/?username=andrinoff&theme=matrix&rank=-B&column=-1" alt="andrinoff"/></a></p>
-</div>  
+ </div>
 
 <hr>
 
