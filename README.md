@@ -34,8 +34,8 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tbilisihc/assets/pull/1) in [tbilisihc/assets](https://github.com/tbilisihc/assets)
-2. 💪 Opened PR [#1](https://github.com/tbilisihc/assets/pull/1) in [tbilisihc/assets](https://github.com/tbilisihc/assets)
+1. ❌ Closed PR [#3](https://github.com/andrinoff/bot-ui/pull/3) in [andrinoff/bot-ui](https://github.com/andrinoff/bot-ui)
+2. 💪 Opened PR [#3](https://github.com/andrinoff/bot-ui/pull/3) in [andrinoff/bot-ui](https://github.com/andrinoff/bot-ui)
 3. ❌ Closed PR [#32](https://github.com/work-progress/work-progress/pull/32) in [work-progress/work-progress](https://github.com/work-progress/work-progress)
 4. ❗ Opened issue [#23](https://github.com/andrinoff/work-progress-backend/issues/23) in [andrinoff/work-progress-backend](https://github.com/andrinoff/work-progress-backend)
 5. 🎉 Merged PR [#3](https://github.com/andrinoff/andrinoff.github.io/pull/3) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
