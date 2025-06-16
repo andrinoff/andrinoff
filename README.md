@@ -67,9 +67,9 @@
 
 <br />
 <div style = "display:flex; flex-direction: row; justify:center;">
-<img src="https://raw.githubusercontent.com/andrinoff/stats/master/generated/languages.svg#gh-dark-mode-only" alt="andrinoff" width=400 />
+<img src="https://raw.githubusercontent.com/andrinoff/stats/master/generated/languages.svg" alt="andrinoff" width=400 />
   
-  <img src="https://raw.githubusercontent.com/andrinoff/stats/master/generated/overview.svg#gh-dark-mode-only" alt="andrinoff" width=400 />
+  <img src="https://raw.githubusercontent.com/andrinoff/stats/master/generated/overview.svg" alt="andrinoff" width=400 />
 </div>
 
 
