@@ -34,11 +34,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tbilisihc/admin/pull/1) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
-2. 💪 Opened PR [#1](https://github.com/tbilisihc/admin/pull/1) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
-3. ❌ Closed PR [#3](https://github.com/andrinoff/bot-ui/pull/3) in [andrinoff/bot-ui](https://github.com/andrinoff/bot-ui)
-4. 💪 Opened PR [#3](https://github.com/andrinoff/bot-ui/pull/3) in [andrinoff/bot-ui](https://github.com/andrinoff/bot-ui)
-5. 🎉 Merged PR [#3](https://github.com/andrinoff/andrinoff.github.io/pull/3) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
+1. 🎉 Merged PR [#2](https://github.com/tbilisihc/admin/pull/2) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
+2. 💪 Opened PR [#2](https://github.com/tbilisihc/admin/pull/2) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
+3. 🎉 Merged PR [#1](https://github.com/tbilisihc/admin/pull/1) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
+4. 💪 Opened PR [#1](https://github.com/tbilisihc/admin/pull/1) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
+5. ❌ Closed PR [#3](https://github.com/andrinoff/bot-ui/pull/3) in [andrinoff/bot-ui](https://github.com/andrinoff/bot-ui)
 <!--END_SECTION:activity-->
 
 
