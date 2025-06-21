@@ -19,7 +19,7 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/tbilisihc/admin/pull/2) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
+1. 🎉 Merged PR [#1](https://github.com/andrinoff/stats/pull/1) in [andrinoff/stats](https://github.com/andrinoff/stats)
 2. 💪 Opened PR [#2](https://github.com/tbilisihc/admin/pull/2) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
 3. 🎉 Merged PR [#1](https://github.com/tbilisihc/admin/pull/1) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
 4. 💪 Opened PR [#1](https://github.com/tbilisihc/admin/pull/1) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
