@@ -19,10 +19,10 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/andrinoff/stats/pull/1) in [andrinoff/stats](https://github.com/andrinoff/stats)
-2. 💪 Opened PR [#2](https://github.com/tbilisihc/admin/pull/2) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
-3. 🎉 Merged PR [#1](https://github.com/tbilisihc/admin/pull/1) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
-4. 💪 Opened PR [#1](https://github.com/tbilisihc/admin/pull/1) in [tbilisihc/admin](https://github.com/tbilisihc/admin)
+1. 🗣 Commented on [#1](https://github.com/tbilisihc/tbilisihc.github.io/pull/1#issuecomment-2993433815) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+2. 🎉 Merged PR [#1](https://github.com/tbilisihc/tbilisihc.github.io/pull/1) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+3. 💪 Opened PR [#1](https://github.com/tbilisihc/tbilisihc.github.io/pull/1) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+4. 🎉 Merged PR [#1](https://github.com/andrinoff/stats/pull/1) in [andrinoff/stats](https://github.com/andrinoff/stats)
 5. ❌ Closed PR [#3](https://github.com/andrinoff/bot-ui/pull/3) in [andrinoff/bot-ui](https://github.com/andrinoff/bot-ui)
 <!--END_SECTION:activity-->
   </details>
