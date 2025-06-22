@@ -29,10 +29,6 @@
 </div>
 <hr>
 
-| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |
-| ----- | ---- | ---- | ---- | ---- |
-
-
 
 <br />
 <div style = "display:flex; flex-direction: row; justify:center;">
