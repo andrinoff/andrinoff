@@ -19,11 +19,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.0](https://github.com/andrinoff/2048-pc/releases/tag/v1.0) in [andrinoff/2048-pc](https://github.com/andrinoff/2048-pc)
-2. 🚀 Published release [Release v1.0.0](https://github.com/andrinoff/2048-pc/releases/tag/v1.0.0) in [andrinoff/2048-pc](https://github.com/andrinoff/2048-pc)
-3. 🎉 Merged PR [#4](https://github.com/tbilisihc/tbilisihc.github.io/pull/4) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-4. 💪 Opened PR [#4](https://github.com/tbilisihc/tbilisihc.github.io/pull/4) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-5. 🗣 Commented on [#3](https://github.com/tbilisihc/tbilisihc.github.io/pull/3#issuecomment-2993654986) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+1. 🎉 Merged PR [#6](https://github.com/tbilisihc/tbilisihc.github.io/pull/6) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+2. 💪 Opened PR [#6](https://github.com/tbilisihc/tbilisihc.github.io/pull/6) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+3. 🎉 Merged PR [#5](https://github.com/tbilisihc/tbilisihc.github.io/pull/5) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+4. 💪 Opened PR [#5](https://github.com/tbilisihc/tbilisihc.github.io/pull/5) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+5. 🚀 Published release [Release v1.0](https://github.com/andrinoff/2048-pc/releases/tag/v1.0) in [andrinoff/2048-pc](https://github.com/andrinoff/2048-pc)
 <!--END_SECTION:activity-->
   </details>
 </div>
