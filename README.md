@@ -19,11 +19,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/tbilisihc/tbilisihc.github.io/pull/27) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-2. 💪 Opened PR [#27](https://github.com/tbilisihc/tbilisihc.github.io/pull/27) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-3. 🎉 Merged PR [#26](https://github.com/tbilisihc/tbilisihc.github.io/pull/26) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-4. 💪 Opened PR [#26](https://github.com/tbilisihc/tbilisihc.github.io/pull/26) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-5. 🎉 Merged PR [#25](https://github.com/tbilisihc/tbilisihc.github.io/pull/25) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+1. 🎉 Merged PR [#29](https://github.com/tbilisihc/tbilisihc.github.io/pull/29) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+2. 💪 Opened PR [#29](https://github.com/tbilisihc/tbilisihc.github.io/pull/29) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+3. 🎉 Merged PR [#28](https://github.com/tbilisihc/tbilisihc.github.io/pull/28) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+4. 💪 Opened PR [#28](https://github.com/tbilisihc/tbilisihc.github.io/pull/28) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+5. 🎉 Merged PR [#27](https://github.com/tbilisihc/tbilisihc.github.io/pull/27) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
 <!--END_SECTION:activity-->
   </details>
 </div>
