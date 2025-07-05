@@ -19,11 +19,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/tbilisihc/tbilisihc.github.io/pull/30) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-2. 💪 Opened PR [#30](https://github.com/tbilisihc/tbilisihc.github.io/pull/30) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-3. 🎉 Merged PR [#2](https://github.com/tbilisihc/submissions/pull/2) in [tbilisihc/submissions](https://github.com/tbilisihc/submissions)
-4. 💪 Opened PR [#2](https://github.com/tbilisihc/submissions/pull/2) in [tbilisihc/submissions](https://github.com/tbilisihc/submissions)
-5. 🎉 Merged PR [#29](https://github.com/tbilisihc/tbilisihc.github.io/pull/29) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+1. ❗ Opened issue [#2](https://github.com/groovykiwi/wallrice/issues/2) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
+2. 🎉 Merged PR [#30](https://github.com/tbilisihc/tbilisihc.github.io/pull/30) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+3. 💪 Opened PR [#30](https://github.com/tbilisihc/tbilisihc.github.io/pull/30) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+4. 🎉 Merged PR [#2](https://github.com/tbilisihc/submissions/pull/2) in [tbilisihc/submissions](https://github.com/tbilisihc/submissions)
+5. 💪 Opened PR [#2](https://github.com/tbilisihc/submissions/pull/2) in [tbilisihc/submissions](https://github.com/tbilisihc/submissions)
 <!--END_SECTION:activity-->
   </details>
 </div>
