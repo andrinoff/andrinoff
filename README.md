@@ -19,11 +19,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/groovykiwi/wallrice/pull/3#issuecomment-3042180360) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
-2. 🗣 Commented on [#3](https://github.com/groovykiwi/wallrice/pull/3#issuecomment-3039337118) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
-3. 🗣 Commented on [#3](https://github.com/groovykiwi/wallrice/pull/3#issuecomment-3039319655) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
-4. 💪 Opened PR [#3](https://github.com/groovykiwi/wallrice/pull/3) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
-5. ❗ Opened issue [#2](https://github.com/groovykiwi/wallrice/issues/2) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
+1. 🎉 Merged PR [#1](https://github.com/andrinoff/rather-cool-APIs/pull/1) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+2. 💪 Opened PR [#1](https://github.com/andrinoff/rather-cool-APIs/pull/1) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+3. 🗣 Commented on [#3](https://github.com/groovykiwi/wallrice/pull/3#issuecomment-3042180360) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
+4. 🗣 Commented on [#3](https://github.com/groovykiwi/wallrice/pull/3#issuecomment-3039337118) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
+5. 🗣 Commented on [#3](https://github.com/groovykiwi/wallrice/pull/3#issuecomment-3039319655) in [groovykiwi/wallrice](https://github.com/groovykiwi/wallrice)
 <!--END_SECTION:activity-->
   </details>
 </div>
