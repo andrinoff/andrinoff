@@ -19,11 +19,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/andrinoff/rather-cool-APIs/pull/3) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
-2. 💪 Opened PR [#3](https://github.com/andrinoff/rather-cool-APIs/pull/3) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
-3. 🎉 Merged PR [#2](https://github.com/andrinoff/rather-cool-APIs/pull/2) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
-4. 💪 Opened PR [#2](https://github.com/andrinoff/rather-cool-APIs/pull/2) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
-5. 🎉 Merged PR [#1](https://github.com/andrinoff/rather-cool-APIs/pull/1) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+1. 🎉 Merged PR [#5](https://github.com/andrinoff/rather-cool-APIs/pull/5) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+2. 🎉 Merged PR [#4](https://github.com/andrinoff/rather-cool-APIs/pull/4) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+3. 🎉 Merged PR [#3](https://github.com/andrinoff/rather-cool-APIs/pull/3) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+4. 💪 Opened PR [#3](https://github.com/andrinoff/rather-cool-APIs/pull/3) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+5. 🎉 Merged PR [#2](https://github.com/andrinoff/rather-cool-APIs/pull/2) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
 <!--END_SECTION:activity-->
   </details>
 </div>
