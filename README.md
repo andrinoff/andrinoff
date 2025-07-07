@@ -19,11 +19,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/andrinoff/rather-cool-APIs/pull/9) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
-2. 💪 Opened PR [#9](https://github.com/andrinoff/rather-cool-APIs/pull/9) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
-3. 🎉 Merged PR [#8](https://github.com/andrinoff/rather-cool-APIs/pull/8) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
-4. 🎉 Merged PR [#7](https://github.com/andrinoff/rather-cool-APIs/pull/7) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
-5. 💪 Opened PR [#7](https://github.com/andrinoff/rather-cool-APIs/pull/7) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+1. 🎉 Merged PR [#31](https://github.com/tbilisihc/tbilisihc.github.io/pull/31) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+2. 💪 Opened PR [#31](https://github.com/tbilisihc/tbilisihc.github.io/pull/31) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+3. 🎉 Merged PR [#9](https://github.com/andrinoff/rather-cool-APIs/pull/9) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+4. 💪 Opened PR [#9](https://github.com/andrinoff/rather-cool-APIs/pull/9) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+5. 🎉 Merged PR [#8](https://github.com/andrinoff/rather-cool-APIs/pull/8) in [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
 <!--END_SECTION:activity-->
   </details>
 </div>
