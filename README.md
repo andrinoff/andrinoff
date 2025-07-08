@@ -9,6 +9,11 @@
 </center>
  </div>
 <hr>
+
+<div align = "center">
+<a href='https://ko-fi.com/S6S41HQ0VS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
 <div align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Could+not+commit+to+life+so+commit+here." alt="Typing SVG" />
