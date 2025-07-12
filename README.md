@@ -24,11 +24,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/tbilisihc/tbilisihc.github.io/issues/56) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-2. 🔒 Closed issue [#54](https://github.com/tbilisihc/tbilisihc.github.io/issues/54) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-3. 🎉 Merged PR [#55](https://github.com/tbilisihc/tbilisihc.github.io/pull/55) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-4. 💪 Opened PR [#55](https://github.com/tbilisihc/tbilisihc.github.io/pull/55) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-5. ❗ Opened issue [#54](https://github.com/tbilisihc/tbilisihc.github.io/issues/54) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+1. 🔒 Closed issue [#56](https://github.com/tbilisihc/tbilisihc.github.io/issues/56) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+2. 🎉 Merged PR [#57](https://github.com/tbilisihc/tbilisihc.github.io/pull/57) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+3. 💪 Opened PR [#57](https://github.com/tbilisihc/tbilisihc.github.io/pull/57) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+4. ❗ Opened issue [#56](https://github.com/tbilisihc/tbilisihc.github.io/issues/56) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+5. 🔒 Closed issue [#54](https://github.com/tbilisihc/tbilisihc.github.io/issues/54) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
 <!--END_SECTION:activity-->
   </details>
 </div>
