@@ -24,11 +24,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/andrinoff/andrinoff.github.io/issues/15) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
-2. 🎉 Merged PR [#16](https://github.com/andrinoff/andrinoff.github.io/pull/16) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
-3. 💪 Opened PR [#16](https://github.com/andrinoff/andrinoff.github.io/pull/16) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
-4. ❗ Opened issue [#15](https://github.com/andrinoff/andrinoff.github.io/issues/15) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
-5. 🎉 Merged PR [#64](https://github.com/tbilisihc/tbilisihc.github.io/pull/64) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+1. ❗ Opened issue [#65](https://github.com/tbilisihc/tbilisihc.github.io/issues/65) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+2. 🔒 Closed issue [#15](https://github.com/andrinoff/andrinoff.github.io/issues/15) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
+3. 🎉 Merged PR [#16](https://github.com/andrinoff/andrinoff.github.io/pull/16) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
+4. 💪 Opened PR [#16](https://github.com/andrinoff/andrinoff.github.io/pull/16) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
+5. ❗ Opened issue [#15](https://github.com/andrinoff/andrinoff.github.io/issues/15) in [andrinoff/andrinoff.github.io](https://github.com/andrinoff/andrinoff.github.io)
 <!--END_SECTION:activity-->
   </details>
 </div>
