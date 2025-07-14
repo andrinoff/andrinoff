@@ -42,4 +42,3 @@
   <img src="https://raw.githubusercontent.com/andrinoff/stats/master/generated/overview.svg" alt="andrinoff" width=400 />
 </div>
 
-HI, ERICA
