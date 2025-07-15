@@ -24,11 +24,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#67](https://github.com/tbilisihc/tbilisihc.github.io/issues/67) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-2. 🎉 Merged PR [#70](https://github.com/tbilisihc/tbilisihc.github.io/pull/70) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-3. 💪 Opened PR [#70](https://github.com/tbilisihc/tbilisihc.github.io/pull/70) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-4. 🗣 Commented on [#68](https://github.com/tbilisihc/tbilisihc.github.io/issues/68#issuecomment-3069928643) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-5. 🔒 Closed issue [#68](https://github.com/tbilisihc/tbilisihc.github.io/issues/68) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+1. 🔒 Closed issue [#5](https://github.com/andrinoff/Floatplane/issues/5) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+2. ❗ Opened issue [#5](https://github.com/andrinoff/Floatplane/issues/5) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+3. 🚀 Published release [Release v0.1.1](https://github.com/andrinoff/Floatplane/releases/tag/v0.1.1) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+4. ❗ Opened issue [#4](https://github.com/andrinoff/Floatplane/issues/4) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+5. 🔒 Closed issue [#67](https://github.com/tbilisihc/tbilisihc.github.io/issues/67) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
 <!--END_SECTION:activity-->
   </details>
 </div>
