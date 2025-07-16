@@ -24,11 +24,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/tbilisihc/tbilisihc.github.io/pull/72) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-2. ❗ Opened issue [#71](https://github.com/tbilisihc/tbilisihc.github.io/issues/71) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-3. 🚀 Published release [v0.1.5](https://github.com/andrinoff/Floatplane/releases/tag/v0.1.5) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-4. 🎉 Merged PR [#11](https://github.com/andrinoff/Floatplane/pull/11) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-5. 🎉 Merged PR [#10](https://github.com/andrinoff/Floatplane/pull/10) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+1. 🔒 Closed issue [#71](https://github.com/tbilisihc/tbilisihc.github.io/issues/71) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+2. 🎉 Merged PR [#73](https://github.com/tbilisihc/tbilisihc.github.io/pull/73) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+3. 💪 Opened PR [#73](https://github.com/tbilisihc/tbilisihc.github.io/pull/73) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+4. ❌ Closed PR [#72](https://github.com/tbilisihc/tbilisihc.github.io/pull/72) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+5. 💪 Opened PR [#72](https://github.com/tbilisihc/tbilisihc.github.io/pull/72) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
 <!--END_SECTION:activity-->
   </details>
 </div>
