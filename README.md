@@ -24,11 +24,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/andrinoff/Floatplane/pull/2) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-2. 🗣 Commented on [#4](https://github.com/andrinoff/Floatplane/issues/4#issuecomment-3076097558) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-3. 🔒 Closed issue [#4](https://github.com/andrinoff/Floatplane/issues/4) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-4. 🗣 Commented on [#3](https://github.com/andrinoff/Floatplane/issues/3#issuecomment-3076096093) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-5. 🔒 Closed issue [#3](https://github.com/andrinoff/Floatplane/issues/3) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+1. 🎉 Merged PR [#11](https://github.com/andrinoff/Floatplane/pull/11) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+2. 🎉 Merged PR [#10](https://github.com/andrinoff/Floatplane/pull/10) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+3. 🎉 Merged PR [#7](https://github.com/andrinoff/Floatplane/pull/7) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+4. 🎉 Merged PR [#8](https://github.com/andrinoff/Floatplane/pull/8) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+5. 🎉 Merged PR [#2](https://github.com/andrinoff/Floatplane/pull/2) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
 <!--END_SECTION:activity-->
   </details>
 </div>
