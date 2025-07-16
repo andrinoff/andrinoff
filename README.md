@@ -24,11 +24,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/andrinoff/Floatplane/issues/6) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-2. 🚀 Published release [v0.1.4](https://github.com/andrinoff/Floatplane/releases/tag/v0.1.4) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-3. ❗ Opened issue [#6](https://github.com/andrinoff/Floatplane/issues/6) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-4. 🚀 Published release [v0.1.3](https://github.com/andrinoff/Floatplane/releases/tag/v0.1.3) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-5. 🚀 Published release [v0.1.2](https://github.com/andrinoff/Floatplane/releases/tag/v0.1.2) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+1. 🎉 Merged PR [#2](https://github.com/andrinoff/Floatplane/pull/2) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+2. 🗣 Commented on [#4](https://github.com/andrinoff/Floatplane/issues/4#issuecomment-3076097558) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+3. 🔒 Closed issue [#4](https://github.com/andrinoff/Floatplane/issues/4) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+4. 🗣 Commented on [#3](https://github.com/andrinoff/Floatplane/issues/3#issuecomment-3076096093) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+5. 🔒 Closed issue [#3](https://github.com/andrinoff/Floatplane/issues/3) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
 <!--END_SECTION:activity-->
   </details>
 </div>
