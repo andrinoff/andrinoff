@@ -24,11 +24,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#71](https://github.com/tbilisihc/tbilisihc.github.io/issues/71) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-2. 🎉 Merged PR [#73](https://github.com/tbilisihc/tbilisihc.github.io/pull/73) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-3. 💪 Opened PR [#73](https://github.com/tbilisihc/tbilisihc.github.io/pull/73) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-4. ❌ Closed PR [#72](https://github.com/tbilisihc/tbilisihc.github.io/pull/72) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
-5. 💪 Opened PR [#72](https://github.com/tbilisihc/tbilisihc.github.io/pull/72) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+1. 💪 Opened PR [#2](https://github.com/Keyboard1000n17/OSPedia/pull/2) in [Keyboard1000n17/OSPedia](https://github.com/Keyboard1000n17/OSPedia)
+2. 🔒 Closed issue [#71](https://github.com/tbilisihc/tbilisihc.github.io/issues/71) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+3. 🎉 Merged PR [#73](https://github.com/tbilisihc/tbilisihc.github.io/pull/73) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+4. 💪 Opened PR [#73](https://github.com/tbilisihc/tbilisihc.github.io/pull/73) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
+5. ❌ Closed PR [#72](https://github.com/tbilisihc/tbilisihc.github.io/pull/72) in [tbilisihc/tbilisihc.github.io](https://github.com/tbilisihc/tbilisihc.github.io)
 <!--END_SECTION:activity-->
   </details>
 </div>
