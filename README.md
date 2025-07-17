@@ -24,11 +24,11 @@
 | --- |
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/andrinoff/Floatplane/releases/tag/v0.2.0) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-2. 🎉 Merged PR [#16](https://github.com/andrinoff/Floatplane/pull/16) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-3. 💪 Opened PR [#16](https://github.com/andrinoff/Floatplane/pull/16) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-4. ❌ Closed PR [#15](https://github.com/andrinoff/Floatplane/pull/15) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
-5. 💪 Opened PR [#15](https://github.com/andrinoff/Floatplane/pull/15) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+1. 🎉 Merged PR [#18](https://github.com/andrinoff/Floatplane/pull/18) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+2. 💪 Opened PR [#18](https://github.com/andrinoff/Floatplane/pull/18) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+3. 🚀 Published release [v0.2.0](https://github.com/andrinoff/Floatplane/releases/tag/v0.2.0) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+4. 🎉 Merged PR [#16](https://github.com/andrinoff/Floatplane/pull/16) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
+5. 💪 Opened PR [#16](https://github.com/andrinoff/Floatplane/pull/16) in [andrinoff/Floatplane](https://github.com/andrinoff/Floatplane)
 <!--END_SECTION:activity-->
   </details>
 </div>
