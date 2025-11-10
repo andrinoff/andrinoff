@@ -18,6 +18,11 @@ Social media: @andrinoff
 
 </div>
 
+### Plazen schedule
+
+<a href="https://plazen.org"> <img src="https://images.plazen.org/?user=828ed580-32b8-49ab-a2d3-ce060edf0504&date=today&tz=asia/tbilisi" width="600"/> </a>
+
+
 ### Projects I have worked on/own:
 
 * [Plazen](https://plazen.org)
