@@ -1,7 +1,13 @@
 ```
-Languages: Ukrainian 🇺🇦, English 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Georgian 🇬🇪, Russian, French 🇫🇷
-Current employment status: Unemployed
-Social media: @andrinoff
+languages = {
+    "Ukrainian 🇺🇦", 
+    "English 🏴󠁧󠁢󠁥󠁮󠁧󠁿", 
+    "Georgian 🇬🇪", 
+    "Russian", 
+    "French 🇫🇷"
+}
+current_employment_status = Unemployed
+social_media = "@andrinoff"
 ```
 
 --- 
