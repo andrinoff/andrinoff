@@ -33,5 +33,4 @@ social_media = "@andrinoff"
 
 * [Plazen](https://plazen.org)
 * [Docerium](https://docerium.com)
-* [freemoviesfull.cc](https://freemoviesfull.cc)
 * [Floatpane](https://floatpane.andrinoff.com)
