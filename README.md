@@ -33,4 +33,4 @@ social_media = "@andrinoff"
 
 * [Plazen](https://plazen.org)
 * [Docerium](https://docerium.com)
-* [Floatpane](https://floatpane.andrinoff.com)
+* [Floatpane](https://floatpane.com)
