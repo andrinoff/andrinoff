@@ -1,3 +1,19 @@
+## Currently building:
+
+1. [Mise](https://mise.plazen.org) — Free and Open Source business management
+2. [Plazen](https://plazen.org) — Open Source task manager built to fix all the flaws in others
+3. [Matcha](https://matcha.floatpane.com) — Open Source beautiful email client in your terminal
+
+## Projects I have worked on/own:
+
+* [Docerium](https://docerium.com)
+* [Floatpane](https://floatpane.com)
+
+## Contact me:
+
+Email: [business@andrinoff.com (freelance and hiring)](mailto:business@andrinoff.com), [drew@plazen.org (regarding Plazen)](mailto:drew@plazen.org), [me@andrinoff.com (general)](mailto:me@andrinoff.com)
+Telegram: @andrinoff
+
 ```
 languages = {
     "Ukrainian 🇺🇦", 
@@ -29,8 +45,3 @@ social_media = "@andrinoff"
 <a href="https://plazen.org"> <img src="https://images.plazen.org/?user=828ed580-32b8-49ab-a2d3-ce060edf0504&date=today&tz=asia/tbilisi" width="600"/> </a>
 
 
-### Projects I have worked on/own:
-
-* [Plazen](https://plazen.org)
-* [Docerium](https://docerium.com)
-* [Floatpane](https://floatpane.com)
