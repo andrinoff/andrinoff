@@ -11,8 +11,9 @@
 
 ## Contact me:
 
-Email: [business@andrinoff.com (freelance and hiring)](mailto:business@andrinoff.com), [drew@plazen.org (regarding Plazen)](mailto:drew@plazen.org), [me@andrinoff.com (general)](mailto:me@andrinoff.com)
-Telegram: @andrinoff
+Email: [business@andrinoff.com (freelance and hiring)](mailto:business@andrinoff.com), [me@andrinoff.com (general)](mailto:me@andrinoff.com)
+
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andrinoff)
 
 ```
 languages = {
