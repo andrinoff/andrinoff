@@ -14,4 +14,4 @@
 
 I build tools I wish existed.
 
-[Sponsor my work](https://andrinoff.com/sponsor)
+[![Sponsor my work](icons/sponsor.svg)](https://andrinoff.com/sponsor)
