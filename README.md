@@ -4,6 +4,8 @@
   <img alt="andrinoff" src="header.svg">
 </picture>
 
+[![LinkedIn](icons/linkedin.svg)](https://linkedin.com/in/andrinoff)&nbsp;&nbsp;[![Telegram](icons/telegram.svg)](https://t.me/andrinoff)&nbsp;&nbsp;[![Instagram](icons/instagram.svg)](https://instagram.com/andrinoff)&nbsp;&nbsp;[![Fosstodon](icons/mastodon.svg)](https://fosstodon.org/@andrinoff)
+
 I build tools I wish existed.
 
 ---
@@ -24,4 +26,4 @@ I build tools I wish existed.
 🇺🇦 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇪 🇫🇷
 ```
 
-[business@andrinoff.com](mailto:business@andrinoff.com) · [me@andrinoff.com](mailto:me@andrinoff.com) · [@andrinoff](https://t.me/andrinoff)
+[business@andrinoff.com](mailto:business@andrinoff.com) · [me@andrinoff.com](mailto:me@andrinoff.com)
