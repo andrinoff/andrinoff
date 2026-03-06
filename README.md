@@ -11,7 +11,4 @@
 <br />
 
 
-
-I build tools I wish existed.
-
 [Sponsor my work](https://andrinoff.com/sponsor)
