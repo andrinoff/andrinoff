@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="50">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="55">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Sora:wght@800&amp;display=swap');
     </style>
   </defs>
-  <text x="0" y="38" font-family="'Sora', sans-serif" font-weight="700" font-size="36" fill="#ffffff">andrinoff</text>
+  <text x="0" y="43" font-family="'Sora', sans-serif" font-weight="800" font-size="44" fill="#ffffff" letter-spacing="-1">andrinoff.</text>
 </svg>
