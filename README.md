@@ -4,7 +4,7 @@
   <img alt="andrinoff" src="header.svg">
 </picture>
 
-[![LinkedIn](icons/linkedin.svg)](https://linkedin.com/in/andrinoff)&nbsp;&nbsp;[![Telegram](icons/telegram.svg)](https://t.me/andrinoff)&nbsp;&nbsp;[![Instagram](icons/instagram.svg)](https://instagram.com/andrinoff)&nbsp;&nbsp;[![Fosstodon](icons/mastodon.svg)](https://fosstodon.org/@andrinoff)] [![Sponsor my work](icons/sponsor.svg)](https://andrinoff.com/sponsor)
+[![LinkedIn](icons/linkedin.svg)](https://linkedin.com/in/andrinoff)&nbsp;&nbsp;[![Telegram](icons/telegram.svg)](https://t.me/andrinoff)&nbsp;&nbsp;[![Instagram](icons/instagram.svg)(https://instagram.com/andrinoff)&nbsp;&nbsp;[![Fosstodon](icons/mastodon.svg)](https://fosstodon.org/@andrinoff)] [![Sponsor my work](icons/sponsor.svg)](https://andrinoff.com/sponsor)
 <br />
 <br />
 <br />
