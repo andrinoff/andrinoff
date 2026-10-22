@@ -38,8 +38,11 @@ d$$$$$$$$iiiISSSii:iIS$II$$IiIdSII?ª'
 j$$SiSS$iiIS$$iIS$Sii:iil$$?^..::i?'         
 ```
 
-<img width="782" height="144" alt="andrinoff" src="https://github.com/user-attachments/assets/e4207f6d-2602-4db3-afa6-acd0f84d4ec2" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
+  <img alt="andrinoff" src="header.svg">
+</picture>
 
 
 ### [Sponsor my work](https://andrinoff.com/sponsor) | [Freelance](https://andrinoff.com/freelance)
